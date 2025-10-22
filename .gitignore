@@ -1,0 +1,38 @@
+# Java / compiled files
+*.class
+
+# Build directories
+build/
+bin/
+out/
+target/
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Tomcat / local server configs
+Servers/
+
+# Distribution files
+*.war
+
+
+
+
+
+# If you want to ignore all jars in WEB-INF/lib, uncomment the following line
+src/main/webapp/WEB-INF/lib/
+
+# End of file
