@@ -1,11 +1,8 @@
 # Login & Registration
 
-This is a simple Java MVC Login and Registration project.
+This is a simple Java MVC Login and Registration project using Servlets and JSP.
 
 Contents:
 - Source code: src/main/java
 - Webapp: src/main/webapp
-
-Notes:
-- `.gitignore` excludes build artifacts, IDE files, and local Tomcat `Servers/` configuration.
 
