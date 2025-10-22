@@ -8,4 +8,4 @@ Contents:
 
 Notes:
 - `.gitignore` excludes build artifacts, IDE files, and local Tomcat `Servers/` configuration.
-- Consider adding a build tool (Maven/Gradle) and moving libraries out of `WEB-INF/lib`.
+
