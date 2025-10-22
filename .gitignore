@@ -29,10 +29,5 @@ Servers/
 *.war
 
 
-
-
-
-# If you want to ignore all jars in WEB-INF/lib, uncomment the following line
 src/main/webapp/WEB-INF/lib/
 
-# End of file
